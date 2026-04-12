@@ -1,0 +1,11 @@
+# Lab 2 - Package Manager & Automation 
+
+## Descripción:
+- Gestión de Paquetes y Directorios en Rocky Linux  
+- Automatización de tareas en Rocky Linux  
+- Administración de Discos y Almacenamiento en Rocky Linux  
+
+## Description:
+- Package and Directory Management in Rocky Linux  
+- Task Automation in Rocky Linux  
+- Disk and Storage Management in Rocky Linux  
