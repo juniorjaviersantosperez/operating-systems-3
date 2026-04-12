@@ -1,4 +1,4 @@
-# Lab 8 - Docker & Containers/README.md 
+# Lab 8 - Docker & Containers
 
 ## Descripción:
 - Instalación y configuración de Docker  
