@@ -1,4 +1,4 @@
-# Lab 5 - RSYNC & Clusters/README.md 
+# Lab 5 - RSYNC & Clusters
 
 ## Descripción:
 - Sincronización de carpetas con RSYNC  
