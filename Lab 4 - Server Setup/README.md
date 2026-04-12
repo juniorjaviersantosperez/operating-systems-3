@@ -1,4 +1,4 @@
-# Lab 4 - Server Setup/README.md 
+# Lab 4 - Server Setup
 
 ## Descripción:
 - Instalación de servidor HTTP (Apache2, Nginx)  
