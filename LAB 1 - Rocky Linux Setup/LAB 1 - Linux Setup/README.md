@@ -1,4 +1,4 @@
-LAB 1 - Linux Setup
+LAB 1 - Linux Setup/README.md
 
 1. Instalación de Linux  
 2. Configuración de red en Linux  
