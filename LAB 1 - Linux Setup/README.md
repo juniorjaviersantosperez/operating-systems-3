@@ -1,13 +1,13 @@
 # Lab 1 - Linux Setup
 
 ## Descripción:
-- Instalación del Sistema Operativo Rocky Linux  
-- Configuración de Parámetros de Red en Rocky Linux  
-- Gestión de Usuarios y Grupos en Rocky Linux  
-- Gestión de Permisos de Archivos en Rocky Linux  
+- Instalación del Sistema Operativo Linux  
+- Configuración de Parámetros de Red en Linux  
+- Gestión de Usuarios y Grupos en Linux  
+- Gestión de Permisos de Archivos en Linux  
 
 ## Description:
-- Rocky Linux OS Installation  
-- Network Configuration in Rocky Linux  
-- User and Group Management in Rocky Linux  
-- File Permissions Management in Rocky Linux  
+- Linux OS Installation  
+- Network Configuration in Linux  
+- User and Group Management in Linux  
+- File Permissions Management in Linux  
