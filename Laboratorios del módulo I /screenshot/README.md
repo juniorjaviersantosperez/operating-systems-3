@@ -10,6 +10,7 @@ Practica 2: Configuración de parámetros de red.
 1.	Configure los parámetros de red utilizando DHCP e IP estática a través de la terminal.
 2.	(explique TODAS las formas que su sistema operativo permite configurarlo).
 3.	Configure los DNS de Google 8.8.8.8 - 8.8.4.4 en su sistema.
+   
 Link Laboratorio YouTube: https://www.youtube.com/watch?v=uvNG2PBcYFo&t=9s
    
 
