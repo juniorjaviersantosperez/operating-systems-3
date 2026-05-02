@@ -4,6 +4,8 @@ Practica 1: Instalacion del Sistema Operativo
 1.	Cree una máquina virtual con recursos suficientes para ejecutar con éxito su sistema operativo (consultar requisitos mínimos de su distro).
 2.	Configure la Tarjeta de Red de su VM en modo Bridge.
 3.	Ejecute la Instalacion del sistema Operativo en su VM.
+
+Link Laboratorio YouTube: https://www.youtube.com/watch?v=uvNG2PBcYFo&t=9s
    
 
 Practica 2: Configuración de parámetros de red.
